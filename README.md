@@ -2,7 +2,7 @@
 
 ## Description
 
-Animation d'un vaisseau spatial survolant une ville. Les bâtiments ainsi que les constellations sont construites de façon procédurale et les déplacements du vaisseau peuvent être contôlés avec le clavier.
+Animation d'un vaisseau spatial survolant une ville. Les bâtiments en parallaxe ainsi que les constellations dans le ciel sont construits de façon procédurale. De plus, les déplacements du vaisseau peuvent être contôlés via le clavier.
 
 ## Fichiers
 
